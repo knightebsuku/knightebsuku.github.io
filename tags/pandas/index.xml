@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pandas on Note To Self</title>
-    <link>/tags/pandas/</link>
+    <link>knightebsuku.github.io/tags/pandas/</link>
     <description>Recent content in pandas on Note To Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="knightebsuku.github.io/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Visualization of Used Car Prices</title>
-      <link>/blog/plotly_dash/</link>
+      <link>knightebsuku.github.io/blog/plotly_dash/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/plotly_dash/</guid>
+      <guid>knightebsuku.github.io/blog/plotly_dash/</guid>
       <description>I was recently looking for a used car, specifically a Mercedes Benz. To get a general idea of the used car market prices, I needed to collect data about the prices.
 There are various websites, in South Africa, that have a huge selection of used and new cars such as autotrader
 Manually searching for &amp;ldquo;Mercedes Benz&amp;rdquo; yielded about 4500 results, nice. Even though I was searching for a specific class, I choose to rather search on the general &amp;ldquo;Mercedes Benz&amp;rdquo; rather than say &amp;ldquo;Mercedes Benz C180&amp;rdquo; as I thought this might also include cars which might not have the class name in them.</description>
