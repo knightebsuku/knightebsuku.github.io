@@ -3,130 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>knightebsuku.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/django/</loc>
+    <loc>/tags/django/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/sql/</loc>
+    <loc>/tags/sql/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/sqlconsole/</loc>
+    <loc>/blog/sqlconsole/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/django_api_homepage/</loc>
+    <loc>/blog/django_api_homepage/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/rest-framework/</loc>
+    <loc>/tags/rest-framework/</loc>
     <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/dash/</loc>
+    <loc>/tags/dash/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/flask/</loc>
+    <loc>/tags/flask/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/pandas/</loc>
+    <loc>/tags/pandas/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/plotly/</loc>
+    <loc>/tags/plotly/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/plotly_dash/</loc>
+    <loc>/blog/plotly_dash/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/visualization/</loc>
+    <loc>/tags/visualization/</loc>
     <lastmod>2020-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/amalisidi/</loc>
+    <loc>/blog/amalisidi/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/debian/</loc>
+    <loc>/tags/debian/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/bulma/</loc>
+    <loc>/tags/bulma/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/django_bulma/</loc>
+    <loc>/blog/django_bulma/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/javascript/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/tags/project/</loc>
+    <loc>/tags/project/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/django_debian_package/</loc>
+    <loc>/blog/django_debian_package/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/blog/python_threading/</loc>
+    <loc>/blog/python_threading/</loc>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>knightebsuku.github.io/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
 </urlset>
