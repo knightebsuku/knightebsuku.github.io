@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Note To Self</title>
-    <link>knightebsuku.github.io/tags/</link>
+    <link>https://knightebsuku.github.io/tags/</link>
     <description>Recent content in Tags on Note To Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="knightebsuku.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://knightebsuku.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>django</title>
-      <link>knightebsuku.github.io/tags/django/</link>
+      <link>https://knightebsuku.github.io/tags/django/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/django/</guid>
+      <guid>https://knightebsuku.github.io/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>knightebsuku.github.io/tags/python/</link>
+      <link>https://knightebsuku.github.io/tags/python/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/python/</guid>
+      <guid>https://knightebsuku.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>knightebsuku.github.io/tags/sql/</link>
+      <link>https://knightebsuku.github.io/tags/sql/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/sql/</guid>
+      <guid>https://knightebsuku.github.io/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rest-framework</title>
-      <link>knightebsuku.github.io/tags/rest-framework/</link>
+      <link>https://knightebsuku.github.io/tags/rest-framework/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/rest-framework/</guid>
+      <guid>https://knightebsuku.github.io/tags/rest-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dash</title>
-      <link>knightebsuku.github.io/tags/dash/</link>
+      <link>https://knightebsuku.github.io/tags/dash/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/dash/</guid>
+      <guid>https://knightebsuku.github.io/tags/dash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>knightebsuku.github.io/tags/flask/</link>
+      <link>https://knightebsuku.github.io/tags/flask/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/flask/</guid>
+      <guid>https://knightebsuku.github.io/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pandas</title>
-      <link>knightebsuku.github.io/tags/pandas/</link>
+      <link>https://knightebsuku.github.io/tags/pandas/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/pandas/</guid>
+      <guid>https://knightebsuku.github.io/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plotly</title>
-      <link>knightebsuku.github.io/tags/plotly/</link>
+      <link>https://knightebsuku.github.io/tags/plotly/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/plotly/</guid>
+      <guid>https://knightebsuku.github.io/tags/plotly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualization</title>
-      <link>knightebsuku.github.io/tags/visualization/</link>
+      <link>https://knightebsuku.github.io/tags/visualization/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/visualization/</guid>
+      <guid>https://knightebsuku.github.io/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debian</title>
-      <link>knightebsuku.github.io/tags/debian/</link>
+      <link>https://knightebsuku.github.io/tags/debian/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/debian/</guid>
+      <guid>https://knightebsuku.github.io/tags/debian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bulma</title>
-      <link>knightebsuku.github.io/tags/bulma/</link>
+      <link>https://knightebsuku.github.io/tags/bulma/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/bulma/</guid>
+      <guid>https://knightebsuku.github.io/tags/bulma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>knightebsuku.github.io/tags/css/</link>
+      <link>https://knightebsuku.github.io/tags/css/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/css/</guid>
+      <guid>https://knightebsuku.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>knightebsuku.github.io/tags/javascript/</link>
+      <link>https://knightebsuku.github.io/tags/javascript/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/javascript/</guid>
+      <guid>https://knightebsuku.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>knightebsuku.github.io/tags/project/</link>
+      <link>https://knightebsuku.github.io/tags/project/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>knightebsuku.github.io/tags/project/</guid>
+      <guid>https://knightebsuku.github.io/tags/project/</guid>
       <description></description>
     </item>
     
