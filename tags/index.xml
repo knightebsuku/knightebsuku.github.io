@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Note To Self</title>
-    <link>https://standalone.co.za/tags/</link>
+    <link>https://www.standalone.co.za/tags/</link>
     <description>Recent content in Tags on Note To Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://standalone.co.za/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.standalone.co.za/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>django</title>
-      <link>https://standalone.co.za/tags/django/</link>
+      <link>https://www.standalone.co.za/tags/django/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/django/</guid>
+      <guid>https://www.standalone.co.za/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://standalone.co.za/tags/python/</link>
+      <link>https://www.standalone.co.za/tags/python/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/python/</guid>
+      <guid>https://www.standalone.co.za/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://standalone.co.za/tags/sql/</link>
+      <link>https://www.standalone.co.za/tags/sql/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/sql/</guid>
+      <guid>https://www.standalone.co.za/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rest-framework</title>
-      <link>https://standalone.co.za/tags/rest-framework/</link>
+      <link>https://www.standalone.co.za/tags/rest-framework/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/rest-framework/</guid>
+      <guid>https://www.standalone.co.za/tags/rest-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dash</title>
-      <link>https://standalone.co.za/tags/dash/</link>
+      <link>https://www.standalone.co.za/tags/dash/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/dash/</guid>
+      <guid>https://www.standalone.co.za/tags/dash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>https://standalone.co.za/tags/flask/</link>
+      <link>https://www.standalone.co.za/tags/flask/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/flask/</guid>
+      <guid>https://www.standalone.co.za/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pandas</title>
-      <link>https://standalone.co.za/tags/pandas/</link>
+      <link>https://www.standalone.co.za/tags/pandas/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/pandas/</guid>
+      <guid>https://www.standalone.co.za/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plotly</title>
-      <link>https://standalone.co.za/tags/plotly/</link>
+      <link>https://www.standalone.co.za/tags/plotly/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/plotly/</guid>
+      <guid>https://www.standalone.co.za/tags/plotly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualization</title>
-      <link>https://standalone.co.za/tags/visualization/</link>
+      <link>https://www.standalone.co.za/tags/visualization/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/visualization/</guid>
+      <guid>https://www.standalone.co.za/tags/visualization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>debian</title>
-      <link>https://standalone.co.za/tags/debian/</link>
+      <link>https://www.standalone.co.za/tags/debian/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/debian/</guid>
+      <guid>https://www.standalone.co.za/tags/debian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bulma</title>
-      <link>https://standalone.co.za/tags/bulma/</link>
+      <link>https://www.standalone.co.za/tags/bulma/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/bulma/</guid>
+      <guid>https://www.standalone.co.za/tags/bulma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://standalone.co.za/tags/css/</link>
+      <link>https://www.standalone.co.za/tags/css/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/css/</guid>
+      <guid>https://www.standalone.co.za/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://standalone.co.za/tags/javascript/</link>
+      <link>https://www.standalone.co.za/tags/javascript/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/javascript/</guid>
+      <guid>https://www.standalone.co.za/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://standalone.co.za/tags/project/</link>
+      <link>https://www.standalone.co.za/tags/project/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/tags/project/</guid>
+      <guid>https://www.standalone.co.za/tags/project/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>python on Note To Self</title>
-    <link>https://standalone.co.za/tags/python/</link>
+    <link>https://www.standalone.co.za/tags/python/</link>
     <description>Recent content in python on Note To Self</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://standalone.co.za/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.standalone.co.za/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SQL Console for Django Admin</title>
-      <link>https://standalone.co.za/blog/sqlconsole/</link>
+      <link>https://www.standalone.co.za/blog/sqlconsole/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/blog/sqlconsole/</guid>
+      <guid>https://www.standalone.co.za/blog/sqlconsole/</guid>
       <description>From time to time when working on django project I tend to need to write out some sql queries to either check something out, update records or to write out the sql version of the ORM. On ocassions there is no direct acces to the database, so having a sql console within the django app might be a good idea.
 I decided to write a small django app that does this.</description>
     </item>
     
     <item>
       <title>Homepage for your Django API</title>
-      <link>https://standalone.co.za/blog/django_api_homepage/</link>
+      <link>https://www.standalone.co.za/blog/django_api_homepage/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/blog/django_api_homepage/</guid>
+      <guid>https://www.standalone.co.za/blog/django_api_homepage/</guid>
       <description>I created an api for a django application of mine amalisidi and I wanted to create a basic homepage for the api. Reading up on the documentation did not really give me a clear picture as to how I would go about it, so I&amp;rsquo;m documenting it here to save my future self.
 First lets add the api&amp;rsquo;s homepage url, in the main urls.py file
 from rest_framework.documentation import include_docs_urls then under urlpatterns</description>
@@ -34,10 +34,10 @@ from rest_framework.documentation import include_docs_urls then under urlpattern
     
     <item>
       <title>Quick Visualization of Used Car Prices</title>
-      <link>https://standalone.co.za/blog/plotly_dash/</link>
+      <link>https://www.standalone.co.za/blog/plotly_dash/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/blog/plotly_dash/</guid>
+      <guid>https://www.standalone.co.za/blog/plotly_dash/</guid>
       <description>I was recently looking for a used car, specifically a Mercedes Benz. To get a general idea of the used car market prices, I needed to collect data about the prices.
 There are various websites, in South Africa, that have a huge selection of used and new cars such as autotrader
 Manually searching for &amp;ldquo;Mercedes Benz&amp;rdquo; yielded about 4500 results, nice. Even though I was searching for a specific class, I choose to rather search on the general &amp;ldquo;Mercedes Benz&amp;rdquo; rather than say &amp;ldquo;Mercedes Benz C180&amp;rdquo; as I thought this might also include cars which might not have the class name in them.</description>
@@ -45,20 +45,20 @@ Manually searching for &amp;ldquo;Mercedes Benz&amp;rdquo; yielded about 4500 re
     
     <item>
       <title>Archiving My Receipts</title>
-      <link>https://standalone.co.za/blog/amalisidi/</link>
+      <link>https://www.standalone.co.za/blog/amalisidi/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/blog/amalisidi/</guid>
+      <guid>https://www.standalone.co.za/blog/amalisidi/</guid>
       <description>For the longest time I&amp;rsquo;ve been meaning to better manage my plastic bags of receipts, finally got around to build an application to archive my receipts and to keep track of my expenses. Its a very simple application and hopefully down the line I&amp;rsquo;ll be able do do some analysis on the data I generate.
 Check out the project here</description>
     </item>
     
     <item>
       <title>Concept - Django project as a debian package</title>
-      <link>https://standalone.co.za/blog/django_debian_package/</link>
+      <link>https://www.standalone.co.za/blog/django_debian_package/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://standalone.co.za/blog/django_debian_package/</guid>
+      <guid>https://www.standalone.co.za/blog/django_debian_package/</guid>
       <description>Concept - Django project as a debian package For the past couple of months I&amp;rsquo;ve been pondering whether it would be possible to package a full django project as debian package (.deb).
 Now and then I tend to write small web applications that run on my machine and use the SQLite database. On one occasion somebody asked if they could run the application on their machine.
 These small web applications tend to just use Django, Django Rest Framework, JavaScript(eg: jquery) and a CSS framework that does not need to be customised or built and on some occasions a background task like celery.</description>
